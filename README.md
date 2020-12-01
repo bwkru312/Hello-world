@@ -1,2 +1,2 @@
 # Hello-Brady
-A New Line Of Code
+A new line of code
